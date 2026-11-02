@@ -1,4 +1,4 @@
-# bankruptcyobserver-com
+# BankruptcyObserver
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,101 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-bankruptcyobserver-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://bankruptcyobserver.com/
+Stay ahead of US business bankruptcies without repeatedly checking bankruptcy websites. Get next-morning alerts, verify changes against the court record, and connect your AI agent through MCP for case-specific answers. Standard and Heavy include a 7-day free trial. Cancel anytime.
+
+**Areas:** Bankruptcy · Finance · Legal · Alerts · US
+
+## BankruptcyObserver on APIs.io
+
+Everything profiled for BankruptcyObserver is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/bankruptcyobserver-com/](https://apis.io/providers/bankruptcyobserver-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Bankruptcy Observer MCP](https://apis.io/apis/bankruptcyobserver-com/bankruptcy-observer-mcp/) — Bankruptcy Observer MCP — agent-first access to US business bankruptcy filings, dockets, documents, and answers from the court record. Free name/case-number…
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Bankruptcyobserver Com Authentication](https://apis.io/security/bankruptcyobserver-com/bankruptcyobserver-com-authentication/)
+- [Bankruptcyobserver Com Domain Security](https://apis.io/security/bankruptcyobserver-com/bankruptcyobserver-com-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Bankruptcyobserver Com Scopes](https://apis.io/scopes/bankruptcyobserver-com/bankruptcyobserver-com-scopes/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://bankruptcyobserver.com/)
+- [Documentation](https://mcp.bankruptcyobserver.com/docs)
+- [Getting started](https://www.bankruptcyobserver.com/)
+- [API reference](https://mcp.bankruptcyobserver.com/docs)
+- [Pricing](https://www.bankruptcyobserver.com/pricing)
+- [Sign up](https://www.bankruptcyobserver.com/pricing)
+- [Support](https://www.bankruptcyobserver.com/contact)
+- [Blog](https://www.bankruptcyobserver.com/news)
+- [Privacy policy](https://www.bankruptcyobserver.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 27.1** — thin · rubric 0.26.0 · scored 2026-11-02
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 0.0 |
+| Contract governance | 16.4 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 47.6 |
+| Access clarity | 34.2 |
+
+**Agent readiness 21.8** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 30.4** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/bankruptcyobserver-com/](https://apis.io/providers/bankruptcyobserver-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for BankruptcyObserver: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/bankruptcyobserver-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
